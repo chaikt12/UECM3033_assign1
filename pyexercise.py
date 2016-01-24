@@ -1,6 +1,5 @@
 import sympy as sy
-import numpy as np 
-
+import numpy as np
 
 
 def fun_1( your_id ):
@@ -9,7 +8,7 @@ def fun_1( your_id ):
 
 def my_integral():
     x = sy.Symbol('x')
-    ans = sy.integrate( sy.exp(2.0*x)*sy.sin(x), (x,0,1.0))
+    ans = sy.integrate( sy.exp(x)*sy.sin(x), (x,0,np.pi))
     return ans
 
 def my_solution():
