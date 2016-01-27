@@ -1,6 +1,6 @@
 import sympy as sy
 import numpy as np
-
+import pylab as p
 
 def fun_1( your_id ):
     ans = hex(your_id)
@@ -12,8 +12,8 @@ def my_integral():
     return ans
 
 def my_solution():
-    A = np.array( [[3,1,-10], [4,2,-9],[5,3,-8]] )
-    b = np.array([-1,5,11])
+    A = p.randn(10,10)
+    b = p.randn(10,1)
     x = np.linalg.solve(A,b) # Solve Ax = b
     return x
 
