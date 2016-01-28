@@ -28,7 +28,7 @@ Following is a screenshot of my python software
 
 1. hexadecimal value of my student ID 0x13d9c1
 
-2.definite integral that i chosen is $$\int_0^{\pi} e^{x}sin(x) dx = \frac{1}{2}(1+e^\pi)$$
+2. definite integral that i chosen is $$\int_0^{\pi} e^{x}sin(x) dx = \frac{1}{2}(1+e^\pi)$$
 
 3. 10 linear equations
 \begin{align*}
