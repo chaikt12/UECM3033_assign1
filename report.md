@@ -48,4 +48,4 @@ Following is a screenshot of my python software
 Solution: \begin{align} x_0 = 1,\\ x_1= 2,\\ x_2 = 3,\\ x_3 = 4,\\ x_4 = 5,\\ x_5 = 6,\\ x_6 = 7,\\ x_7 = 8,\\ x_8 = 9,\\ x_9 = 10\end{align}
 -----------------------------------
 
-<sup>last modified: change your date here</sup>
+<sup>last modified: 28/1/2016</sup>
